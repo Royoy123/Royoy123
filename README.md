@@ -4,9 +4,7 @@
 
 [![Follow](https://img.shields.io/github/followers/Royoy123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eldiosx)
 
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/eldiosx/)
-
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://Royoy123.github.io/cv/) 
+[![CV]([https://img.shields.io/badge/Curriculum%20Vitae-30363D?](https://drive.google.com/file/d/1fCRWSns6GDOf9A5f3E_tdsQW2ld4NQ67/view?usp=sharing)style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://Royoy123.github.io/cv/) 
 
 <div>
  
